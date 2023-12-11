@@ -38,12 +38,12 @@ img {
 }
 
 body {
-  background-color: #ffffff;
+  background-color: #E7BCDE;
 }
 
 navbar .logo {
   font-size: 28px;
-  color: #393e46;
+  color: #31304D;
   font-weight: bold;
   padding: 0 12%;
   margin-top: 32px;
@@ -62,7 +62,7 @@ navbar .logo {
 .main .create-join .text .head {
   font-size: 36px;
   font-weight: bold;
-  color: #393e46;
+  color: #31304D;
 }
 .main .create-join .text .subtext {
   font-size: 24px;
@@ -74,13 +74,13 @@ navbar .logo {
   margin-top: 60px;
   font-size: 24px;
   font-weight: bold;
-  background-color: #4ecca3;
+  background-color: #BBAB8C;
   color: white;
   text-align: center;
   padding: 10px 20px;
   border: none;
   border-radius: 10px;
-  border: 2px solid #4ecca3;
+  border: 2px solid #BBAB8C;
   transition: 0.3s;
 }
 .main .create-join .createroom-butt:hover {
@@ -161,7 +161,7 @@ navbar .logo {
   width: 100px;
 }
 .main .video-cont .settings .device {
-  background-color: #4ecca3;
+  background-color: #BBAB8C;
   border-radius: 100px;
   padding: 10px;
   width: 40px;
